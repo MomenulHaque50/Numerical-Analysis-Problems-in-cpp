@@ -3,6 +3,6 @@ All problems are set for numerical analysis course in computer science engineeri
 All Codes written in C++ because of stl library. You've the liberty to view my codes if you're stuck.
 But I highly recommend not to watch the codes before you solve these yourself.
 Refference Book:Introductory methods of numerical analysis by S S Sastry, fifth edition, PHI learning private limited, New Delhi, 2012.
-Practice more example to just change the function of equation contain.
+Practice more example to just change the function which contain equation.
 If you find more efficient code to solving method, please share with everyone.
 Thanks in advance.
